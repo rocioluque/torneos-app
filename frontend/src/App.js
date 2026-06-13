@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Restricciones from './components/Restricciones';
 import SubirArchivos from './components/SubirArchivos';
 
-const API = 'http://localhost:8000';
+const API = process.env.REACT_APP_API_URL || 'http://localhost:8000';
 
 const DEFAULT_RESTRICCIONES = {
   horarios: ['08:40', '09:40', '10:40', '11:40', '12:40', '14:00', '15:00', '16:00', '17:00'],
