@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/torneos-app/static/css/main.35497930.css",
+    "main.js": "/torneos-app/static/js/main.32d7f0b4.js",
+    "index.html": "/torneos-app/index.html",
+    "main.35497930.css.map": "/torneos-app/static/css/main.35497930.css.map",
+    "main.32d7f0b4.js.map": "/torneos-app/static/js/main.32d7f0b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35497930.css",
+    "static/js/main.32d7f0b4.js"
+  ]
+}

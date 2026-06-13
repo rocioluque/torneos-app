@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{background:#f0f4f8;color:#222;font-family:Segoe UI,sans-serif;min-height:100vh}button,h1,h2,h3{font-weight:600}button{border:none;border-radius:6px;cursor:pointer;font-size:14px;padding:10px 20px;transition:background .2s,opacity .2s}button:disabled{cursor:not-allowed;opacity:.5}input[type=number],input[type=text]{border:1px solid #ccc;border-radius:6px;font-size:14px;padding:7px 10px;width:100%}input[type=number]:focus,input[type=text]:focus{border-color:#1976d2;outline:none}
+/*# sourceMappingURL=main.35497930.css.map*/
